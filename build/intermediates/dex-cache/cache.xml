@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/brunovalente/AndroidStudioProjects/RotativoAzul/app/build/intermediates/exploded-aar/com.android.volley/volley/1.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/Users/brunovalente/AndroidStudioProjects/RotativoAzul/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.volley-volley-1.0.0_5052f6c3b45d68f7ef57f9bbd4a21f15671c4315/classes.dex" />
+    </item>
+    <item
+        jar="/Users/brunovalente/AndroidStudioProjects/RotativoAzul/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/brunovalente/AndroidStudioProjects/RotativoAzul/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_65b2614efd3aebcc1a6622f66517ed049aa8483b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/brunovalente/AndroidStudioProjects/RotativoAzul/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/Users/brunovalente/AndroidStudioProjects/RotativoAzul/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.3.0_ed64029db1994de474200d85dd6ca0c617d6f478/classes.dex" />
+    </item>
+    <item
+        jar="/Users/brunovalente/AndroidStudioProjects/RotativoAzul/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="1641c43416b4f6abb510ae1357afafe88cc372d1">
+        <dex dex="/Users/brunovalente/AndroidStudioProjects/RotativoAzul/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_9323f28145e0438dc087a3e82b6457b2c5ccf965/classes.dex" />
+    </item>
+    <item
+        jar="/Users/brunovalente/AndroidStudioProjects/RotativoAzul/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/Users/brunovalente/AndroidStudioProjects/RotativoAzul/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.3.0_3ef65627fae77da310c414c4be3e3cac4be34f14/classes.dex" />
+    </item>
+    <item
+        jar="/Users/brunovalente/AndroidStudioProjects/RotativoAzul/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/brunovalente/AndroidStudioProjects/RotativoAzul/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.3.0_752aa16f217dfa3a89b034d3d3f05dacf8930fb0/classes.dex" />
+    </item>
+    <item
+        jar="/Users/brunovalente/AndroidStudioProjects/RotativoAzul/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="94a707322db822b1b0a2968f2999662321cc9afb">
+        <dex dex="/Users/brunovalente/AndroidStudioProjects/RotativoAzul/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_97f3e1d2d80e3da66112c5cf537e4633282fcc9a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/brunovalente/AndroidStudioProjects/RotativoAzul/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/Users/brunovalente/AndroidStudioProjects/RotativoAzul/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.3.0_4aec8da9fc03c6f5519c7ff8b7dfe4d111a2ee95/classes.dex" />
+    </item>
+    <item
+        jar="/Users/brunovalente/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/brunovalente/AndroidStudioProjects/RotativoAzul/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_72815a4ba1fe0072a3c788904d52a8703d613195/classes.dex" />
+    </item>
+
+</items>
